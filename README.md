@@ -1,5 +1,5 @@
 
-![My's GitHub Banner](./GithubBanner.jpg)
+![My's GitHub Banner](./GitBanner.png)
 
 Hey there 👋
 
